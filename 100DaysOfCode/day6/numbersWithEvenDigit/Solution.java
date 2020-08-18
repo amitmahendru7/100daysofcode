@@ -3,8 +3,8 @@ package numbersWithEvenDigit;
 public class Solution {
 
 	public static void main(String[] args) {
-		int[] arr= {12,345,2,6,7896,100000};
-		System.out.println(findNumbers(arr));
+		int[] nums= {12,345,2,6,7896,100000};
+		System.out.println(findNumbers(nums));
 
 	}
 	
