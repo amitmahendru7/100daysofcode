@@ -1,11 +1,13 @@
 package finalPrices;
 
+import java.util.Arrays;
 import java.util.Stack;
 
 public class Solution {
 
 	public static void main(String[] args) {
-		
+		int[] prices= {8,4,6,2,3};
+		System.out.println(Arrays.toString(finalPrices(prices)));
 		
 
 	}
